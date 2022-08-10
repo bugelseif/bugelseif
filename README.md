@@ -3,8 +3,6 @@
 
 * 👩‍🎓  Estudante de ciência da computação
 
-* 🧠  Atualmente estou estudando backend com Kotlin
-
 
 <a href="https://www.twitch.tv/bug_elseif" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/bug_elseif?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
