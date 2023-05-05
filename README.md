@@ -1,10 +1,12 @@
 ## Olá, meu nome é Bruna Ferreira
 
 
+* 👩🏻‍💻 Software developer - DX - [BotCity](https://github.com/botcity-dev)
 * 👩🏻‍🎓 Estudante de Ciência da Computação no Instituto Federal de Santa Catarina [7/8]
+* 🧚🏻‍♀️ Colaboradora voluntária da comunidade [Feministech](https://github.com/feministech) com desenvolvimento de projetos e eventos
+* 🧙🏻‍♀️ [Content creator](https://bugelseif.github.io/website/)
 * 👩🏻‍🏫 Monitora de disciplinas de introdução à programação, programação orientada a objetos e estrutura de dados
-* 👩🏻‍💻 Colaboradora voluntária da comunidade Feministech com desenvolvimento de projetos e eventos
-* 🧙🏻‍♀️ Compartilho conhecimentos técnicos na Twitch e YouTube.
+
 
 
 <a href="https://www.twitch.tv/bug_elseif" target="_blank" rel="noreferrer"><img
