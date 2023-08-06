@@ -1,33 +1,13 @@
 ## Olá, meu nome é Bruna Ferreira
 
 
-* 👩🏻‍💻 Software developer - DX - [BotCity](https://github.com/botcity-dev)
-* 👩🏻‍🎓 Estudante de Ciência da Computação no Instituto Federal de Santa Catarina [7/8]
-* 🧚🏻‍♀️ Colaboradora voluntária da comunidade [Feministech](https://github.com/feministech) com desenvolvimento de projetos e eventos
-* 🧙🏻‍♀️ [Content creator](https://bugelseif.github.io/website/)
-* 👩🏻‍🏫 Monitora de disciplinas de introdução à programação, programação orientada a objetos e estrutura de dados
+* 👩🏻‍💻 Software developer -  DevX - [BotCity](https://github.com/botcity-dev)
+* ✍🏻 Tech writer - [Revelo community](https://community.revelo.com.br/)
+* 👩🏻‍🎓 Estudante de Ciência da Computação - IFSC [8/8]
+* 🧚🏻‍♀️ Colaboradora da comunidade [Feministech](https://github.com/feministech)
+* 🧙🏻‍♀️ Conteúdos abertos disponíveis no [meu site](https://bugelseif.github.io/website/)
 
+---
 
-
-<a href="https://www.twitch.tv/bug_elseif" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/bug_elseif?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-
-
-### Skills
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
-                    
-### Socials
-<p align="left"> <a href="https://www.dev.to/bug_elseif" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32"/></a> <a href="https://www.linkedin.com/in/bugelseif" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/bug_elseif" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/bugelseif"><img src="https://github-readme-stats.vercel.app/api?username=bugelseif&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bugelseif's GitHub stats" /></a>
-
+![Nebulosa Carina](https://stsci-opo.org/STScI-01G77PMKVDMYB0931W8D4Y33MS.png)
+                   
