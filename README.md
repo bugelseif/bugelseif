@@ -9,5 +9,9 @@
 
 ---
 
+[![An image of @bugelseif's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bugelseif)](https://holopin.io/@bugelseif)
+
+---
+
 ![Nebulosa Carina](https://stsci-opo.org/STScI-01G77PMKVDMYB0931W8D4Y33MS.png)
                    
